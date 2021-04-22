@@ -1,0 +1,13 @@
+.add-column-wrapper {
+  display: flex;
+  align-items: baseline;
+
+  .MuiButtonBase-root.MuiButton-root {
+    width: 16%;
+  }
+}
+
+.input.MuiFormControl-root {
+  margin-right: 5px;
+  width: 16%;
+}
